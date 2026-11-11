@@ -4,7 +4,13 @@
 
 全片约 **2分17秒**，1920×1080、24fps，含普通话男声解说、同步中文字幕、逐段城市/画作/时代角标和MP4章节。
 
-[观看及下载完整视频（1080p）](https://github.com/wanglu2016/ershi-cheng-ruhua/releases/download/v1.0.0/city-in-ancient-ink-1080p.mp4) · [视频发布页](https://github.com/wanglu2016/ershi-cheng-ruhua/releases/tag/v1.0.0) · [中文字幕](city-in-ancient-ink.srt)
+[在线观看](#在线观看) · [下载（1080p原片）](https://github.com/wanglu2016/ershi-cheng-ruhua/releases/download/v1.0.0/city-in-ancient-ink-1080p.mp4) · [视频发布页](https://github.com/wanglu2016/ershi-cheng-ruhua/releases/tag/v1.0.0) · [中文字幕](city-in-ancient-ink.srt)
+
+## 在线观看
+
+点击下方播放器观看完整视频（720p，2分17秒）。下载入口提供1080p原片。
+
+https://github.com/user-attachments/assets/e14a6cee-b99a-4d85-bff1-3e474904b6b4
 
 ![二十城与二十种笔墨总览](poster.jpg)
 
